@@ -1,0 +1,46 @@
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DTO\bin\Debug\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DTO\bin\Debug\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DTO\obj\Debug\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DTO\obj\Debug\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DTO\bin\Debug\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DTO\bin\Debug\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DTO\obj\Debug\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DTO\obj\Debug\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\bin\Debug\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\bin\Debug\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\obj\Debug\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\obj\Debug\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\bin\Debug\DTO.dll
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\bin\Debug\DTO.pdb
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\obj\Debug\DTO.dll
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\obj\Debug\DTO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\bin\Debug\DTO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\bin\Debug\DTO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\obj\Debug\DTO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\obj\Debug\DTO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\QuanLyQuanCafe\DTO\bin\Debug\DTO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\QuanLyQuanCafe\DTO\bin\Debug\DTO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\QuanLyQuanCafe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Learning\LESSION\LTWIN\DA_WIN\QuanLyQuanCafe\DTO\obj\Debug\DTO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\QuanLyQuanCafe\DTO\obj\Debug\DTO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\SHARE CODE\QuanLyQuanCafe\QuanLyQuanCafe\DTO\bin\Debug\DTO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\SHARE CODE\QuanLyQuanCafe\QuanLyQuanCafe\DTO\bin\Debug\DTO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\SHARE CODE\QuanLyQuanCafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Learning\LESSION\LTWIN\DA_WIN\SHARE CODE\QuanLyQuanCafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\SHARE CODE\QuanLyQuanCafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.pdb
+E:\QuanLyNhaHangCafe\ManagementCafe\QuanLyQuanCafe\DTO\bin\Debug\DTO.dll
+E:\QuanLyNhaHangCafe\ManagementCafe\QuanLyQuanCafe\DTO\bin\Debug\DTO.pdb
+E:\QuanLyNhaHangCafe\ManagementCafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\QuanLyNhaHangCafe\ManagementCafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\QuanLyNhaHangCafe\ManagementCafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.dll
+E:\QuanLyNhaHangCafe\ManagementCafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.pdb
+E:\Job_BillCoffee\QuanLyQuanCafe\DTO\bin\Debug\DTO.dll
+E:\Job_BillCoffee\QuanLyQuanCafe\DTO\bin\Debug\DTO.pdb
+E:\Job_BillCoffee\QuanLyQuanCafe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Job_BillCoffee\QuanLyQuanCafe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Job_BillCoffee\QuanLyQuanCafe\DTO\obj\Debug\DTO.dll
+E:\Job_BillCoffee\QuanLyQuanCafe\DTO\obj\Debug\DTO.pdb

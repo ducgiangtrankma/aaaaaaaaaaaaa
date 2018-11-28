@@ -1,0 +1,60 @@
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DoAnQuanCaFe.exe.config
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DoAnQuanCaFe.exe
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DoAnQuanCaFe.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fLogin.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.Properties.Resources.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.csproj.GenerateResource.Cache
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.exe
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fOrder.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fTrangChu.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.csprojResolveAssemblyReference.cache
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fAdminSystem.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fPersonalInformation.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\BUS.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\BUS.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DAO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DAO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fDetailOneDrinkBill.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\bin\Debug\DoAnQuanCaFe.exe.config
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.exe
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\bin\Debug\DoAnQuanCaFe.exe
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\bin\Debug\DoAnQuanCaFe.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\bin\Debug\BUS.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\bin\Debug\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\bin\Debug\DAO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\bin\Debug\BUS.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\bin\Debug\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\bin\Debug\DAO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.csprojResolveAssemblyReference.cache
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fAdminSystem.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fDetailOneDrinkBill.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fLogin.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fPersonalInformation.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fOrder.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.Properties.Resources.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fTrangChu.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\DoAnQuanCaFe--sửalaiform\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.csproj.GenerateResource.Cache
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DoAnQuanCaFe.exe.config
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.exe
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.pdb
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.csprojResolveAssemblyReference.cache
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fAdminSystem.resources
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fDetailOneDrinkBill.resources
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fLogin.resources
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fPersonalInformation.resources
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fOrder.resources
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.Properties.Resources.resources
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.fTrangChu.resources
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\obj\Debug\DoAnQuanCaFe.csproj.GenerateResource.Cache
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DoAnQuanCaFe.exe
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DoAnQuanCaFe.pdb
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\BUS.dll
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DTO.dll
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DAO.dll
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\BUS.pdb
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DTO.pdb
+E:\Source\HK5\LTWIN_NC\Project\Update\DoAnQuanCaFe\DoAnQuanCaFe\bin\Debug\DAO.pdb

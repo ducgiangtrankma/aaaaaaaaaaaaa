@@ -1,0 +1,82 @@
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\PhanMemQuanLyQuanCaFe.csprojResolveAssemblyReference.cache
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ChiTietThucUong.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_DangNhap.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThanhToan.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThaoTacBan.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThongTinTaiKhoan.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_LayLaiMatKhau.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_YeuCauGoiThucUong.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.Properties.Resources.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_TrangChu.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\PhanMemQuanLyQuanCaFe.csproj.GenerateResource.Cache
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\RdlCompile.cache
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\RdlCompile.compiled
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DoAnQuanCaFe.exe.config
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DoAnQuanCaFe.exe
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DoAnQuanCaFe.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\BUS.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DAO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\BUS.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DAO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.exe
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_QuanLyHeThong.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.rptThanhToan.resources
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.rptThongKe.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DoAnQuanCaFe.exe.config
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.exe
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.pdb
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DoAnQuanCaFe.exe
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DoAnQuanCaFe.pdb
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\BUS.dll
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DTO.dll
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DAO.dll
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\BUS.pdb
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DTO.pdb
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DAO.pdb
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\PhanMemQuanLyQuanCaFe.csprojResolveAssemblyReference.cache
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_QuanLyHeThong.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ChiTietThucUong.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_DangNhap.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThanhToan.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThaoTacBan.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThongTinTaiKhoan.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_LayLaiMatKhau.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_YeuCauGoiThucUong.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.Properties.Resources.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_TrangChu.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.rptThanhToan.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.rptThongKe.resources
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\PhanMemQuanLyQuanCaFe.csproj.GenerateResource.Cache
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\RdlCompile.cache
+D:\Learning\LTWIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\RdlCompile.compiled
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DoAnQuanCaFe.exe.config
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.exe
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DoAnQuanCaFe.exe
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DoAnQuanCaFe.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\BUS.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DTO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DAO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\BUS.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DTO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\bin\Release\DAO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\PhanMemQuanLyQuanCaFe.csprojResolveAssemblyReference.cache
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_QuanLyHeThong.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThongTinChiTietSanPham.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_DangNhap.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThanhToan.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThaoTacBan.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_ThongTinTaiKhoan.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_LayLaiMatKhau.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_XacNhan.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_YeuCauGoiThucUong.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.Properties.Resources.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.frm_TrangChu.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.rptThanhToan.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.rptThongKe.resources
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\PhanMemQuanLyQuanCaFe.csproj.GenerateResource.Cache
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\RdlCompile.cache
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\RdlCompile.compiled
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DoAnQuanCaFe\obj\Release\DoAnQuanCaFe.pdb

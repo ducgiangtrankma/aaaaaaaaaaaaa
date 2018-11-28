@@ -1,0 +1,15 @@
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\bin\Release\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\bin\Release\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\obj\Release\DTO.dll
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\obj\Release\DTO.pdb
+D:\hoai thuong\laptrinh\winform\house\thuchanh\LTWIN-15-11-2107\DoAnQuanCaFe\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\bin\Release\DTO.dll
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\bin\Release\DTO.pdb
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\obj\Release\DTO.dll
+D:\Learning\LTWIN\DoAnQuanCaFe\DTO\obj\Release\DTO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\bin\Release\DTO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\bin\Release\DTO.pdb
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\obj\Release\DTO.dll
+D:\Learning\LESSION\LTWIN\DA_WIN\DoAnQuanCaFe\DTO\obj\Release\DTO.pdb
